@@ -1,0 +1,15 @@
+# Core API
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.9
+
+# Numerical stack (STABLE with Python 3.11)
+numpy==1.26.4
+scipy==1.11.4
+
+# Computer Vision
+opencv-python==4.9.0.80
+mediapipe==0.10.14
+
+# Utilities
+colorama==0.4.6
